@@ -1,5 +1,8 @@
-# 🪟 i3 Window Manager Config
+```bash
+Just some files to use them properly" — because obviously, that clarifies everything — and you'll need to dig deep into your itty-bitty, microscopic, imaginary particles of a brain... that is, if you’re lucky enough to have any at all.
+```
 
+# 🪟 i3 Window Manager Config
 Personal i3wm configuration — minimal, keyboard-driven, dual-monitor ready(important if you are getting problems while switching screens).
 
 ## ✨ Features
@@ -68,4 +71,3 @@ Uses `autorandr` for auto profile switching + custom `display-manager.sh` for ho
 
 *Built on i3 v4.x | Tested on Ubuntu/Debian*
 
-It is just some files to use them properly. you need to use your little-little particales of brain if you have some.
