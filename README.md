@@ -1,5 +1,5 @@
 ```bash
-"Just some files to use them properly" — because obviously, that clarifies everything — and you'll need to dig deep into your itty-bitty, microscopic, imaginary particles of a brain... that is, if you’re lucky enough to have any at all.
+"These are Just some files to use them properly" — because obviously, that clarifies everything — and you'll need to dig deep into your itty-bitty, microscopic, imaginary particles of a brain... that is, if you’re lucky enough to have any at all.
 ```
 
 # 🪟 i3 Window Manager Config
