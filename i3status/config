@@ -1,0 +1,26 @@
+general {
+    colors = true
+    interval = 5
+}
+
+order += "volume_status"
+order += "wifi"
+order += "battery_level"
+order += "tztime local"
+
+volume_status {
+    format = "🔊 {percentage}%"
+}
+
+wifi {
+    format = "WiFi: {ssid} {signal_percent}%"
+}
+
+battery_level {
+    format = "Battery: {percent}%"
+}
+
+tztime local {
+    format = "%d-%m-%Y %I:%M %p"
+     color = "#FF0000"
+}
